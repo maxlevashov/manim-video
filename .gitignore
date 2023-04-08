@@ -1,4 +1,5 @@
 
 /nbproject/
-
-
+/content
+/__pycache__
+/media
